@@ -3,7 +3,7 @@
 ## How to launch 
 
 Open Terminal and enter the following commands 
-- cd <directory of CoppeliaSim> 
+- cd `directory of CoppeliaSim` 
 - ./coppeliaSim.sh
 
 When CoppeliaSim is launched, 
@@ -15,7 +15,7 @@ When CoppeliaSim is launched,
 
 ## About Scene
 
-###Scene 1: ToyotaHSR_BasicScene.ttt 
+### Scene 1: ToyotaHSR_BasicScene.ttt 
 
 In this scene, the Toyota HSR robot is moving at a linear velocity in straight motion. Various joints such as Head joint, Arm joint and Gripper joint are locked at a specific position to allow better visualization. 
 
